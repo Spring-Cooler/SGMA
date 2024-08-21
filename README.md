@@ -1,1 +1,1 @@
-"# SGMA" 
+# SGMA(Study Group Management Application)
